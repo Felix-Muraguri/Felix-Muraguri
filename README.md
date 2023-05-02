@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felix-Muraguri, a Mechanical Engineering student and Software Engineering (noob) student at @ALX_Africa.
 - 👀 I’m interested in app development, more specifically the programming and design part of video games. 
-- 🌱 I’m currently learning C, Python, SQL, JavaScript, Front & Backend Programming.
+- 🌱 I’m currently learning C, Python, SQL, JavaScript, Front & Backend Programming and Game Development and Production
 - 💞In future, I'd like to collaborate with players in the game development industry, once I have acquired the skills to dive right into it.
 - 📫 How to reach me, @IamFelixNM on Twitter.
 
